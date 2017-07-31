@@ -1,0 +1,9 @@
+c:\users\misternt\documents\visual studio 2017\Projects\AutoAuthKMITL\AutoAuthKMITL\bin\Debug\AutoAuthKMITL.exe.config
+c:\users\misternt\documents\visual studio 2017\Projects\AutoAuthKMITL\AutoAuthKMITL\bin\Debug\AutoAuthKMITL.exe
+c:\users\misternt\documents\visual studio 2017\Projects\AutoAuthKMITL\AutoAuthKMITL\bin\Debug\AutoAuthKMITL.pdb
+c:\users\misternt\documents\visual studio 2017\Projects\AutoAuthKMITL\AutoAuthKMITL\obj\Debug\AutoAuthKMITL.csprojResolveAssemblyReference.cache
+c:\users\misternt\documents\visual studio 2017\Projects\AutoAuthKMITL\AutoAuthKMITL\obj\Debug\AutoAuthKMITL.Form1.resources
+c:\users\misternt\documents\visual studio 2017\Projects\AutoAuthKMITL\AutoAuthKMITL\obj\Debug\AutoAuthKMITL.Properties.Resources.resources
+c:\users\misternt\documents\visual studio 2017\Projects\AutoAuthKMITL\AutoAuthKMITL\obj\Debug\AutoAuthKMITL.csproj.GenerateResource.Cache
+c:\users\misternt\documents\visual studio 2017\Projects\AutoAuthKMITL\AutoAuthKMITL\obj\Debug\AutoAuthKMITL.exe
+c:\users\misternt\documents\visual studio 2017\Projects\AutoAuthKMITL\AutoAuthKMITL\obj\Debug\AutoAuthKMITL.pdb
