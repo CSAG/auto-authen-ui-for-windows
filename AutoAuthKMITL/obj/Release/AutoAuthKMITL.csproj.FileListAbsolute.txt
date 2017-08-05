@@ -1,0 +1,11 @@
+D:\Projects\ProGram\C#\auto-authen-ui-for-windows\AutoAuthKMITL\bin\Release\AutoAuthKMITL.exe.config
+D:\Projects\ProGram\C#\auto-authen-ui-for-windows\AutoAuthKMITL\bin\Release\AutoAuthKMITL.exe
+D:\Projects\ProGram\C#\auto-authen-ui-for-windows\AutoAuthKMITL\bin\Release\AutoAuthKMITL.pdb
+D:\Projects\ProGram\C#\auto-authen-ui-for-windows\AutoAuthKMITL\bin\Release\aa-DJ\AutoAuthKMITL.resources.dll
+D:\Projects\ProGram\C#\auto-authen-ui-for-windows\AutoAuthKMITL\obj\Release\AutoAuthKMITL.Main.resources
+D:\Projects\ProGram\C#\auto-authen-ui-for-windows\AutoAuthKMITL\obj\Release\AutoAuthKMITL.Properties.Resources.resources
+D:\Projects\ProGram\C#\auto-authen-ui-for-windows\AutoAuthKMITL\obj\Release\AutoAuthKMITL.Main.aa-DJ.resources
+D:\Projects\ProGram\C#\auto-authen-ui-for-windows\AutoAuthKMITL\obj\Release\AutoAuthKMITL.csproj.GenerateResource.Cache
+D:\Projects\ProGram\C#\auto-authen-ui-for-windows\AutoAuthKMITL\obj\Release\aa-DJ\AutoAuthKMITL.resources.dll
+D:\Projects\ProGram\C#\auto-authen-ui-for-windows\AutoAuthKMITL\obj\Release\AutoAuthKMITL.exe
+D:\Projects\ProGram\C#\auto-authen-ui-for-windows\AutoAuthKMITL\obj\Release\AutoAuthKMITL.pdb

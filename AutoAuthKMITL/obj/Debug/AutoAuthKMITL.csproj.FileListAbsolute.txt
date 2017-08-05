@@ -7,3 +7,14 @@ c:\users\misternt\documents\visual studio 2017\Projects\AutoAuthKMITL\AutoAuthKM
 c:\users\misternt\documents\visual studio 2017\Projects\AutoAuthKMITL\AutoAuthKMITL\obj\Debug\AutoAuthKMITL.csproj.GenerateResource.Cache
 c:\users\misternt\documents\visual studio 2017\Projects\AutoAuthKMITL\AutoAuthKMITL\obj\Debug\AutoAuthKMITL.exe
 c:\users\misternt\documents\visual studio 2017\Projects\AutoAuthKMITL\AutoAuthKMITL\obj\Debug\AutoAuthKMITL.pdb
+D:\Projects\ProGram\C#\auto-authen-ui-for-windows\AutoAuthKMITL\bin\Debug\AutoAuthKMITL.exe.config
+D:\Projects\ProGram\C#\auto-authen-ui-for-windows\AutoAuthKMITL\bin\Debug\AutoAuthKMITL.exe
+D:\Projects\ProGram\C#\auto-authen-ui-for-windows\AutoAuthKMITL\bin\Debug\AutoAuthKMITL.pdb
+D:\Projects\ProGram\C#\auto-authen-ui-for-windows\AutoAuthKMITL\obj\Debug\AutoAuthKMITL.Main.resources
+D:\Projects\ProGram\C#\auto-authen-ui-for-windows\AutoAuthKMITL\obj\Debug\AutoAuthKMITL.Properties.Resources.resources
+D:\Projects\ProGram\C#\auto-authen-ui-for-windows\AutoAuthKMITL\obj\Debug\AutoAuthKMITL.csproj.GenerateResource.Cache
+D:\Projects\ProGram\C#\auto-authen-ui-for-windows\AutoAuthKMITL\obj\Debug\AutoAuthKMITL.exe
+D:\Projects\ProGram\C#\auto-authen-ui-for-windows\AutoAuthKMITL\obj\Debug\AutoAuthKMITL.pdb
+D:\Projects\ProGram\C#\auto-authen-ui-for-windows\AutoAuthKMITL\bin\Debug\aa-DJ\AutoAuthKMITL.resources.dll
+D:\Projects\ProGram\C#\auto-authen-ui-for-windows\AutoAuthKMITL\obj\Debug\AutoAuthKMITL.Main.aa-DJ.resources
+D:\Projects\ProGram\C#\auto-authen-ui-for-windows\AutoAuthKMITL\obj\Debug\aa-DJ\AutoAuthKMITL.resources.dll
