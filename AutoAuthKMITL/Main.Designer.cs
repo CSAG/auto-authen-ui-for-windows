@@ -34,6 +34,7 @@
             this.tb_studentno = new System.Windows.Forms.TextBox();
             this.tb_password = new System.Windows.Forms.TextBox();
             this.gb_info = new System.Windows.Forms.GroupBox();
+            this.cb_startonrun = new System.Windows.Forms.CheckBox();
             this.label1 = new System.Windows.Forms.Label();
             this.cb_remember = new System.Windows.Forms.CheckBox();
             this.numpick_delaycheck = new System.Windows.Forms.NumericUpDown();
@@ -45,7 +46,6 @@
             this.bt_hide = new System.Windows.Forms.Button();
             this.bt_exit = new System.Windows.Forms.Button();
             this.pb_title = new System.Windows.Forms.PictureBox();
-            this.cb_startonrun = new System.Windows.Forms.CheckBox();
             this.gb_info.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.numpick_delaycheck)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pb_title)).BeginInit();
@@ -82,6 +82,12 @@
             resources.ApplyResources(this.gb_info, "gb_info");
             this.gb_info.Name = "gb_info";
             this.gb_info.TabStop = false;
+            // 
+            // cb_startonrun
+            // 
+            resources.ApplyResources(this.cb_startonrun, "cb_startonrun");
+            this.cb_startonrun.Name = "cb_startonrun";
+            this.cb_startonrun.UseVisualStyleBackColor = true;
             // 
             // label1
             // 
@@ -149,12 +155,6 @@
             resources.ApplyResources(this.pb_title, "pb_title");
             this.pb_title.Name = "pb_title";
             this.pb_title.TabStop = false;
-            // 
-            // cb_startonrun
-            // 
-            resources.ApplyResources(this.cb_startonrun, "cb_startonrun");
-            this.cb_startonrun.Name = "cb_startonrun";
-            this.cb_startonrun.UseVisualStyleBackColor = true;
             // 
             // Main
             // 

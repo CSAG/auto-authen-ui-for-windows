@@ -49,8 +49,7 @@ namespace AutoAuthKMITL {
             StartAutoAuth();
         }
         private void StartAutoAuth() {
-            if (timer.Enabled)
-            {
+            if (timer.Enabled) {
                 timer.Stop();
                 bt_start.Text = "Start AutoAuth";
                 tb_studentno.Enabled = true;
